@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Toyota",
+        "image": "https://images.unsplash.com/photo-1581862142388-23e1c52ca091?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 2,
+        "name": "Ford",
+        "image": "https://images.unsplash.com/photo-1587975732799-395778988cdc?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 3,
+        "name": "BMW",
+        "image": "https://images.unsplash.com/photo-1538690560694-c770d02e202c?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 4,
+        "name": "Mercedes-Benz",
+        "image": "https://images.unsplash.com/photo-1623013438264-d176fb91ee99?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 5,
+        "name": "Tesla",
+        "image": "https://images.unsplash.com/photo-1624623864107-ef79f850b554?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 6,
+        "name": "Honda",
+        "image": "https://images.unsplash.com/photo-1580894736003-7f5f057c9f38?auto=format&fit=crop&q=80&w=2073&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]
