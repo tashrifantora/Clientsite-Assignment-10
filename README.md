@@ -1,6 +1,6 @@
 # React + Vite
 
-![The San Juan Mountains are beautiful!](/src/assets/ "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/src/assets/cover.jpg "San Juan Mountains")
 
 Currently, two official plugins are available:
 
