@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![The San Juan Mountains are beautiful!](/src/assets/ "San Juan Mountains")
 
 Currently, two official plugins are available:
 
